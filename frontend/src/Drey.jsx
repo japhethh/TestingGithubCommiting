@@ -12,7 +12,6 @@ const Drey = () => {
       <p>sdasdassda </p>
       <p>sdasdassda </p>
       {/* Pandeshabu */}
-      <p>Pandesal</p>
       <p>Mag shashabu na lang ako</p>
 
     </div>
