@@ -1,10 +1,12 @@
 import React from 'react'
 import Nav from './Components/Nav'
+import Yo from './Components/Yo';
 
 const App = () => {
   return (
     <>
     <Nav/>
+    <Yo/>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
