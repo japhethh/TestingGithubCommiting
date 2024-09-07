@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const Drey = () => {
   return (
-    <div>Call 1234567897543</div>
-  )
-}
+    <div>
+      <p>sdasdassda</p>
+      <p>Pandesal</p>
+    </div>
+  );
+};
 
-export default Drey
+export default Drey;
